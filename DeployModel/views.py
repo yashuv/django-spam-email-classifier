@@ -1,7 +1,7 @@
 from django.http import HttpResponse
 from django.shortcuts import render
 
-# import our classifier model
+# import our classification model
 from . import model
 
 
